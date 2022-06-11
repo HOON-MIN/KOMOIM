@@ -3,6 +3,7 @@ package model;
 
 
 import dao.ADao;
+import dao.LoginDAO;
 import dto.AGroup;
 import dto.AJoin;
 import dto.AMember;
@@ -16,16 +17,18 @@ public class Model {
 
      // 회원가입 
     public int joinMemberMd(AMember vo) {
-        return ADao.getDao().joinMember(vo);
+        return LoginDAO.getLoginDao().joinMember(vo);
     }
      //로그인
     public AMember loginMd( AMember vo,String id) {
-       return ADao.getDao().login(vo,id);
+       return LoginDAO.getLoginDao().login(vo,id);
     }
     //로그인id - pwd 체크
     public int checkIdMd(String id, String pwd){
-        return ADao.getDao().checkId(id, pwd);
+        return LoginDAO.getLoginDao().checkId(id, pwd);
     }
+    
+    
     //그룹만들기
      public void addGroupMd(AMember ref , AGroup ref2){
          ADao.getDao().addGroup(ref, ref2);
