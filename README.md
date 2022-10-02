@@ -5,4 +5,5 @@ DAO, DTO를 이해하고 마이바티스가 아닌 프레임워크를 이용하�
 
 
 # 🚀프로젝트 기간 및 사용언어
-<img src="https://img.shields.io/badge/java-blue?style=plastic"/>
+<img src="https://img.shields.io/badge/Java-blue?style=plastic"/>
+<img src="https://img.shields.io/badge/Oracle-red?style=plastic"/>
