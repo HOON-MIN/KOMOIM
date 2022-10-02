@@ -26,8 +26,8 @@ DAO, DTO를 이해하고 마이바티스가 아닌 프레임워크를 이용하�
 <br>
 <br>
 <br>
-👀<strong>Model에서 Dao 호출</strong> <br><br>
-<small>(그룹별로 하지못하고 하나에 Dao에서 처리한 실수가 있다.)</small><br>
+👀<strong>Model에서 Dao 호출</strong> 
+<small> ~~(그룹별로 하지못하고 하나에 Dao에서 처리한 실수가 있다.) ~~</small><br><br>
 <img width="400" alt="image" src="https://user-images.githubusercontent.com/106335468/193456554-922f96c6-5cfa-4223-bf82-41ba44c5413a.png">
 <br>
 <br>
@@ -41,7 +41,7 @@ DAO, DTO를 이해하고 마이바티스가 아닌 프레임워크를 이용하�
 <br>
 <img width="600" alt="image" src="https://user-images.githubusercontent.com/106335468/193456704-1a612207-108d-40bf-8510-a1940617df91.png">
 <br>
-<img width="600 alt="image" src="https://user-images.githubusercontent.com/106335468/193456720-f3e354ed-1dc7-4a58-9a78-1f2b195b3d4a.png">
+<img width="600" alt="image" src="https://user-images.githubusercontent.com/106335468/193457023-9d7bbf47-63e9-4e67-a0e3-49cc1fc7e8a8.png">
 <br>
 <img width="600" alt="image" src="https://user-images.githubusercontent.com/106335468/193456754-8f431503-99e1-4990-8673-eb6e0c75fb4e.png">
 
