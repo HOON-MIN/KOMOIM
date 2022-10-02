@@ -16,3 +16,4 @@ DAO, DTO를 이해하고 마이바티스가 아닌 프레임워크를 이용하�
 
 
 ## ✨Demo
+<img width="491" alt="화면 캡처 2022-10-02 221521" src="https://user-images.githubusercontent.com/106335468/193456026-e070a802-ba45-46f7-84cc-bbb0039935d2.png">
