@@ -16,11 +16,15 @@ DAO, DTO를 이해하고 마이바티스가 아닌 프레임워크를 이용하�
 
 
 ## ✨Demo
-DB Conn 접속 <br>
+🔥<strong>DB Conn 접속</strong> <br><br>
 <img width="400" alt="image" src="https://user-images.githubusercontent.com/106335468/193456114-0a6bab01-034d-4d3e-9710-5e00a23ab23c.png">
 <br>
-DTO Getter Setter 처리<br>
+<br>
+<br>
+DTO Getter Setter 처리<br><br>
 <img width="400" alt="image" src="https://user-images.githubusercontent.com/106335468/193456207-cf067a6f-a44f-4de4-b2bf-c8b950005ac6.png">
+<br>
+<br>
 <br>
 Model에서 Dao 호출 <br>
 <small>(그룹별로 하지못하고 하나에 Dao에서 처리한 실수가 있다.)</small><br>
