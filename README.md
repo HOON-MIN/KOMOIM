@@ -26,7 +26,7 @@ DAO, DTO를 이해하고 마이바티스가 아닌 프레임워크를 이용하�
 <br>
 <br>
 <br>
-👀<strong>Model에서 Dao 호출</strong> 
+👀<strong>Model에서 Dao 호출</strong> <br>
  ~~그룹별로 하지못하고 하나에 Dao에서 처리한 실수가 있다. ~~
 <br><br>
 <img width="400" alt="image" src="https://user-images.githubusercontent.com/106335468/193456554-922f96c6-5cfa-4223-bf82-41ba44c5413a.png">
