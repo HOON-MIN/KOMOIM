@@ -16,17 +16,17 @@ DAO, DTO를 이해하고 마이바티스가 아닌 프레임워크를 이용하�
 
 
 ## ✨Demo
-DB Conn 접속 
+DB Conn 접속 <br>
 <img width="400" alt="image" src="https://user-images.githubusercontent.com/106335468/193456114-0a6bab01-034d-4d3e-9710-5e00a23ab23c.png">
-
-DTO Getter Setter 처리
+<br>
+DTO Getter Setter 처리<br>
 <img width="400" alt="image" src="https://user-images.githubusercontent.com/106335468/193456207-cf067a6f-a44f-4de4-b2bf-c8b950005ac6.png">
-
-Model에서 Dao 호출 
-<small>(그룹별로 하지못하고 하나에 Dao에서 처리한 실수가 있다.)</small>
+<br>
+Model에서 Dao 호출 <br>
+<small>(그룹별로 하지못하고 하나에 Dao에서 처리한 실수가 있다.)</small><br>
 <img width="400" alt="image" src="https://user-images.githubusercontent.com/106335468/193456554-922f96c6-5cfa-4223-bf82-41ba44c5413a.png">
 
-Dao의 CRUD 데이터 처리
+Dao의 CRUD 데이터 처리<br>
 <img width="600" alt="화면 캡처 2022-10-02 221521" src="https://user-images.githubusercontent.com/106335468/193456026-e070a802-ba45-46f7-84cc-bbb0039935d2.png">
 <img width="600" alt="image" src="https://user-images.githubusercontent.com/106335468/193456643-81884590-c26b-47e7-99d9-a9779c8b049b.png">
 <img width="600" alt="image" src="https://user-images.githubusercontent.com/106335468/193456680-c4009c60-56a6-4ab6-8da4-3dcfca64997f.png">
