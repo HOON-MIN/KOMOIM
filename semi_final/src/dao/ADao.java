@@ -258,7 +258,7 @@ public class ADao {
         }
                    
         }
-        // 게시글 출력 - 병렬
+        // 게시글 출력
         public ArrayList<Board> listBoard(AGroup group){
             Connection con = null;
             PreparedStatement ps = null;

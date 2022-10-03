@@ -29,14 +29,11 @@ public class Model {
     }
     
     
-    //그룹만들기
-     public void addGroupMd(AMember ref , AGroup ref2){
-         ADao.getDao().addGroup(ref, ref2);
-     }
-     // 메인페이지 그룹 리스트
-      public ArrayList<AGroup> groupListMd(AMember ref) {
-          return ADao.getDao().groupList(ref);
-      }
+	/*
+	 * //그룹만들기 public void addGroupMd(AMember ref , AGroup ref2){
+	 * ADao.getDao().addGroup(ref, ref2); } // 메인페이지 그룹 리스트 public ArrayList<AGroup>
+	 * groupListMd(AMember ref) { return ADao.getDao().groupList(ref); }
+	 */
        //모임 이름검색하기
     public ArrayList<AGroup> detailGroup(String gname){
         return ADao.getDao().detailGroup(gname);
@@ -75,9 +72,10 @@ public class Model {
     }
     //모임 번호 입력후 버튼 클릭 후 모임페이지에 대한 
     //상세 정보를  가져오는 Dao 
-    public AGroup enterGroupMd(AGroup group){
-        return ADao.getDao().EnterGroup(group);
-    }
+	/*
+	 * public AGroup enterGroupMd(AGroup group){ return
+	 * ADao.getDao().EnterGroup(group); }
+	 */
     
     //모임 상세페이지에서 모임에 가입한 맴버를 표시하는 테이블
      public ArrayList<AJoin> listGroupMd(int num){
